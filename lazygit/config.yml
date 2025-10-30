@@ -1,0 +1,6 @@
+gui:
+  language: en
+
+git:
+  diffContextSize: 10
+  localBranchSortOrder: 'alphabetical'
